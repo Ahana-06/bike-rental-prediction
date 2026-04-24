@@ -1,6 +1,21 @@
 # 🚲 Bike Rental Prediction using Time Series Machine Learning
  This project builds a time series forecasting model to predict bike rental demand using trend, seasonality, and machine learning techniques.
 
+
+## 📁 Project Structure
+
+bike-rental-prediction/
+│
+├── images/
+│   ├── decomposition.png
+│   ├── rolling.png
+│   ├── final.png
+│
+├── main.py
+├── requirements.txt
+├── README.md
+
+
 ## 📸 Project Preview
 ![Final](images/final.png)
 
