@@ -17,8 +17,7 @@ bike-rental-prediction/
 
 
 ## 📸 Project Preview
-![Final](images/final.png)
-
+<img src="images/final.png" width="700"/>
 
 ## 📌 Problem Statement
 Accurately predicting bike rental demand helps optimize resource allocation and improves operational efficiency.
