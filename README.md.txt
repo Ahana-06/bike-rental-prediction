@@ -44,13 +44,13 @@ Data → Feature Engineering → Train/Test Split → Model → Evaluation
 
 ## 📈 Results
  🔹 Time Series Decomposition
-![Decomposition](decomposition.png)
+![Decomposition](images/decomposition.png)
 
  🔹 Trend & Rolling Mean
-![Rolling](rolling.png)
+![Rolling](images/rolling.png)
 
  🔹 Final Prediction vs Actual
-![Final](final.png)
+![Final](images/final.png)
 
 
 ## 📊 Model Performance
