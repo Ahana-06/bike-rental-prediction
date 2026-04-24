@@ -96,6 +96,7 @@ python main.py
 * Time series data contains trend and seasonality patterns
 * Feature engineering significantly improves model performance
 * Random Forest outperforms naive baseline predictions
+  
 
 
 
