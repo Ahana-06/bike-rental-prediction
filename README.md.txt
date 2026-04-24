@@ -73,6 +73,7 @@ Data → Feature Engineering → Train/Test Split → Model → Evaluation
 [Baseline (Naive)] MAE: 2.34 | RMSE: 3.12
 [Random Forest] MAE: 1.85 | RMSE: 2.60
 
+
 ## 🛠️ Tech Stack
 * Python
 * Pandas, NumPy
@@ -82,7 +83,6 @@ Data → Feature Engineering → Train/Test Split → Model → Evaluation
 
 
 ## 🚀 How to Run the Project
-
 ```bash
 pip install -r requirements.txt
 python main.py
@@ -90,17 +90,11 @@ python main.py
 
 
 ## 💡 Key Insights
-
 * Time series data contains trend and seasonality patterns
 * Feature engineering significantly improves model performance
 * Random Forest outperforms naive baseline predictions
 
 
-## 📌 Future Improvements
 
- Use real-world bike rental dataset
- Try advanced models (XGBoost, LSTM)
- Hyperparameter tuning
- Deploy as a web app
 
 
