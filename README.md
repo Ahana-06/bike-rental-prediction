@@ -21,7 +21,6 @@ This project focuses on predicting bike rental demand using time series data.
 It captures patterns such as trend, seasonality, and noise, and applies machine learning 
 (Random Forest) to make accurate predictions. The goal is to understand demand patterns 
 and improve forecasting performance.
-<img src="images/final.png" width="700"/>
 
 
 ## 📌 Problem Statement
