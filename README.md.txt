@@ -11,16 +11,12 @@ This project predicts bike rental demand using time series data with trend, seas
 - Compared with baseline model
 
 ## 📊 Results
-- Baseline MAE: (fill after running)
-- Random Forest MAE: (fill after running)
 
-## 🛠️ Tech Stack
-- Python
-- Pandas, NumPy
-- Matplotlib, Seaborn
-- Scikit-learn
+### Decomposition
+![Decomposition](decomposition.png)
 
-## ▶️ How to Run
-```bash
-pip install -r requirements.txt
-python main.py
+### Trend & Rolling Mean
+![Rolling](rolling.png)
+
+### Final Prediction
+![Final](final.png)
